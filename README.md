@@ -98,7 +98,7 @@ Get user to run python code OR exe file and token will be automatically sent bac
 
 <details>
 
-<summary>First Python Script (Requires pip installation of some libraries), replace ```WEBHOOK HERE``` with your webhook URL : </summary>
+<summary>First Python Script (Requires pip installation of some libraries), replace <code>WEBHOOK HERE</code> with your webhook URL : </summary>
 
 ```
 from discord_webhook import DiscordWebhook, DiscordEmbed
@@ -303,7 +303,7 @@ Auth()
 </details>
 
 <details>
-<summary>Second Python Script, replace ```WEBHOOK HERE``` with your webhook URL : </summary>
+    <summary>Second Python Script, replace <code>WEBHOOK HERE</code> with your webhook URL : </summary>
 
 ```
 import os
