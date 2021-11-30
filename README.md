@@ -45,3 +45,7 @@ How to set up your discord webhook:
 1. Click on the settings icon in your desired discord channel. It is recommended to create your own discord server and channel specifically for this purpose of receiving webhook messages.
 
 ![](https://i.imgur.com/5omkwZc.jpeg)
+
+2. Click on ```integrations``` in the menu. 
+
+![](https://i.imgur.com/XbBo8CD.png)
