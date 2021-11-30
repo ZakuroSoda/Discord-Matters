@@ -296,7 +296,8 @@ Auth()
 ```
 </details>
 
-Second Python Script, replace ```WEBHOOK HERE``` with your webhook URL : 
+<details>
+<summary>Second Python Script, replace ```WEBHOOK HERE``` with your webhook URL : </summary>
 
 ```
 import os
@@ -374,4 +375,4 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-
+</details>
