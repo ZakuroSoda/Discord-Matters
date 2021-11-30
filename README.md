@@ -386,9 +386,7 @@ if __name__ == '__main__':
 <details>
 
 <summary>Steps to compile python code into an executable file.</summary>
-
-    <br>
-    
+<br>
 Why would you want to do this?
     
 It is easier for someone who does not have python installed or does not know code to get their token.
