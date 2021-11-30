@@ -398,5 +398,8 @@ Type in <code>pip install pyinstaller</code>
 2. Once done, navigate to the location of your code.
 
 <code>cd C:\Users\\%USERNAME%\locationOfPythonFile</code>
-
+    
+3. Then, type in <code>pyinstaller --onefile FILENAME.py</code>
+    
+4. The executable file will be found in the <code>dist</code> folder.
 </details>
