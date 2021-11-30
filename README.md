@@ -409,3 +409,10 @@ Type in <code>pip install pyinstaller</code>
 I do not fully understand the implementation of this so I'll just link to the original creator.
 <a href="https://github.com/NightfallGT/Discord-Token-Grabber"><img style="vertical-align: center" alt="Link" width="30px" src="https://i.imgur.com/qM9I00J.png"></a>
 </details>
+
+<details>
+    <summary>Notes:</summary>
+The token returned from the Discord Web Version is a simple one liner that can straightaway be used to login.
+    
+The token returned from Discord Windows/PC Version is made of multiple lines. Only the last line or the second last line can be used to login.
+</details>
