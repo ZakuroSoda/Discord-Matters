@@ -448,3 +448,8 @@ Replace ```TOKEN``` with the token obtained earlier. Enter this code into the Br
 
 ```location.reload();var i = document.createElement('iframe');document.body.appendChild(i);i.contentWindow.localStorage.token = "\"TOKEN\""```
 
+## ATTENTION
+
+YOUR DISCORD TOKEN SHOULD NEVER BE REVEALED. 
+
+If you feel like your Discord account has been hacked, immediately change your password.
