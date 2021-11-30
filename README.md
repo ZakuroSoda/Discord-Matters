@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
 ![](https://img.shields.io/badge/DISCLAIMER-DO%20NOT%20USE%20FOR%20ANYTHING%20ILLEGAL-red)
 ![](https://img.shields.io/badge/Created-30%2F11%2F2021-brightgreen)
+![](https://img.shields.io/badge/Tags-hacking%2C%20discord%2C%20python%2C%20javascript-blue)
 
 ### DISCLAIMER
 
