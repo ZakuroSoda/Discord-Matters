@@ -19,7 +19,9 @@ THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED I
 Discord Webhooks allow you to receive messages in a Discord Server Channel externally via a HTTP POST Request.
 
 <details>
+    
 <summary>Steps: </summary>
+    
 1. Click on the settings icon in your desired Discord channel. It is recommended to create your own Discord server and channel specifically for this purpose of receiving webhook messages.
 
 ![](https://i.imgur.com/5omkwZc.jpeg)
