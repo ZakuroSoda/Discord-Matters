@@ -401,5 +401,5 @@ Type in <code>pip install pyinstaller</code>
     
 3. Then, type in <code>pyinstaller --onefile FILENAME.py</code>
     
-4. The executable file will be found in the <code>dist</code> folder.
+4. The executable file will be found in the <code>dist</code> folder created.
 </details>
