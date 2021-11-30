@@ -403,3 +403,10 @@ Type in <code>pip install pyinstaller</code>
     
 4. The executable file will be found in the <code>dist</code> folder created.
 </details>
+
+<details>
+<summary>C++ Script</summary>
+<br>
+I do not fully understand the implementation of this so I'll just link to the original creator.
+[<img align="left" alt="Link" width="22px" src="https://i.imgur.com/qM9I00J.png" />](https://github.com/NightfallGT/Discord-Token-Grabber)
+</details>
