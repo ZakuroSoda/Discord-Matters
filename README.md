@@ -53,3 +53,7 @@ How to set up your discord webhook:
 3. Click on ```Create webhook```.
 
 ![](https://i.imgur.com/VgW7vMM.png)
+
+4. Name your webhook "bot" and give it a Profile Picture. 
+
+![](https://i.imgur.com/2MticGD.png)
