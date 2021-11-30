@@ -12,6 +12,8 @@ I do not claim responsibility or involvement for anything you break or any troub
 
 THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED ILLEGALLY.
 
+---
+
 ### Grabbing the token
 Our first step is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. This involves a little social engineering as it requires either you or the victim to run the code and grab the token.
 
