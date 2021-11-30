@@ -382,3 +382,21 @@ if __name__ == '__main__':
     main()
 ```
 </details>
+
+<details>
+
+<summary>Steps to compile python code into an executable file.</summary>
+
+Why would you want to do this?
+
+It is easier for someone who does not have python installed or does not know code to get their token.
+
+1. In Command Prompt, make sure you have Python installed with PIP added to PATH.
+
+Type in <code>pip install pyinstaller</code>
+
+2. Once done, navigate to the location of your code.
+
+<code>cd C:\Users\%USERNAME%\locationOfPythonFile</code>
+
+</details>
