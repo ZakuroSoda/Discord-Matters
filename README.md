@@ -417,5 +417,27 @@ The token returned from the Discord Web Version is a simple one liner that can s
 The token returned from Discord Windows/PC Version is made of multiple lines. Only the last line or the second last line can be used to login.
 </details>
 
+---
 
 ## Logging in with the token
+
+The second goal is to login with the token. This can only be done via the Discord Browser Version - Through the Browser JavaScript Console.
+
+### First Code:
+
+Replace ```PASTE TOKEN HERE``` with the token obtained earlier.
+
+```
+function login(token) {
+setInterval(() => {
+document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
+}, 50);
+setTimeout(() => {
+location.reload();
+}, 2500);
+}
+
+login('PASTE TOKEN HERE')
+
+OR
+```
