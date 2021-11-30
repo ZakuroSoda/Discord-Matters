@@ -421,7 +421,7 @@ The token returned from Discord Windows/PC Version is made of multiple lines. On
 
 ## Logging in with the token
 
-The second goal is to login with the token. This can only be done via the Discord Browser Version - Through the Browser JavaScript Console.
+The second goal is to login with the token. This can only be done via the Discord Browser Version - Through the Browser JavaScript Console. Navigate to the Discord login page on a browser and paste in the code.
 
 ### First Code:
 
