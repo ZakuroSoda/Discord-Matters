@@ -408,5 +408,5 @@ Type in <code>pip install pyinstaller</code>
 <summary>C++ Script</summary>
 <br>
 I do not fully understand the implementation of this so I'll just link to the original creator.
-[<img align="left" alt="Link" width="22px" src="https://i.imgur.com/qM9I00J.png" />](https://github.com/NightfallGT/Discord-Token-Grabber)
+[<img alt="Link" width="30px" src="https://i.imgur.com/qM9I00J.png" />](https://github.com/NightfallGT/Discord-Token-Grabber)
 </details>
