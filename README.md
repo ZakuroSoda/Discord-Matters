@@ -388,7 +388,7 @@ if __name__ == '__main__':
 <summary>Steps to compile python code into an executable file.</summary>
 
 Why would you want to do this?
-
+<br>
 It is easier for someone who does not have python installed or does not know code to get their token.
 
 1. In Command Prompt, make sure you have Python installed with PIP added to PATH.
