@@ -439,8 +439,6 @@ location.reload();
 }
 
 login('PASTE TOKEN HERE')
-
-OR
 ```
 
 ### Second Code:
