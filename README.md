@@ -40,6 +40,7 @@ Discord Webhooks allow you to receive messages in a Discord Server Channel exter
 
 ![](https://i.imgur.com/8AnneNZ.png)
 </details>
+
 ---
 
 ## Grabbing the token
