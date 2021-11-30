@@ -425,7 +425,7 @@ The second goal is to login with the token. This can only be done via the Discor
 
 ### First Code:
 
-Replace ```PASTE TOKEN HERE``` with the token obtained earlier.
+Replace ```PASTE TOKEN HERE``` with the token obtained earlier. Enter this code into the Browser JS Console.
 
 ```
 function login(token) {
@@ -441,3 +441,10 @@ login('PASTE TOKEN HERE')
 
 OR
 ```
+
+### Second Code:
+
+Replace ```TOKEN``` with the token obtained earlier. Enter this code into the Browser JS Console.
+
+```location.reload();var i = document.createElement('iframe');document.body.appendChild(i);i.contentWindow.localStorage.token = "\"TOKEN\""```
+
