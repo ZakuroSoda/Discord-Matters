@@ -411,7 +411,7 @@ I do not fully understand the implementation of this so I'll just link to the or
 </details>
 
 <details>
-    <summary>Notes:</summary>
+<summary>Notes:</summary>
 The token returned from the Discord Web Version is a simple one liner that can straightaway be used to login.
     
 The token returned from Discord Windows/PC Version is made of multiple lines. Only the last line or the second last line can be used to login.
