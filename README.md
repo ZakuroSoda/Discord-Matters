@@ -397,6 +397,6 @@ Type in <code>pip install pyinstaller</code>
 
 2. Once done, navigate to the location of your code.
 
-<code>cd C:\Users\%USERNAME%\locationOfPythonFile</code>
+<code>cd C:\Users\\%USERNAME%\locationOfPythonFile</code>
 
 </details>
