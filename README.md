@@ -1,5 +1,7 @@
 ## Discord Matters
 
+![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
+![](https://img.shields.io/badge/DISCLAIMER-DO%20NOT%20USE%20FOR%20ANYTHING%20ILLEGAL-red)
 ### Grabbing the token
 Our first step is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. This involves a little social engineering as it requires either you or the victim to run the code and grab the token.
 
