@@ -38,6 +38,8 @@ Discord Webhooks allow you to receive messages in a Discord Server Channel exter
 
 ![](https://i.imgur.com/8AnneNZ.png)
 
+---
+
 ## Grabbing the token
 Our first goal is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. 
 
