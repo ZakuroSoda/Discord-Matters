@@ -49,3 +49,7 @@ How to set up your discord webhook:
 2. Click on ```integrations``` in the menu. 
 
 ![](https://i.imgur.com/XbBo8CD.png)
+
+3. Click on ```Create webhook```.
+
+![](https://i.imgur.com/VgW7vMM.png)
