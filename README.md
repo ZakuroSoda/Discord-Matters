@@ -14,6 +14,30 @@ THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED I
 
 ---
 
+### How to set up your discord webhook: 
+
+Discord Webhooks allow you to receive messages in a Discord Server Channel externally via a HTTP POST Request.
+
+1. Click on the settings icon in your desired Discord channel. It is recommended to create your own Discord server and channel specifically for this purpose of receiving webhook messages.
+
+![](https://i.imgur.com/5omkwZc.jpeg)
+
+2. Click on ```integrations``` in the menu. 
+
+![](https://i.imgur.com/XbBo8CD.png)
+
+3. Click on ```Create webhook```.
+
+![](https://i.imgur.com/VgW7vMM.png)
+
+4. Name your webhook "bot" and give it a profile picture. 
+
+![](https://i.imgur.com/2MticGD.png)
+
+5. Then, click on ```Copy webhook URL``` and you have your discord webhook setup!
+
+![](https://i.imgur.com/8AnneNZ.png)
+
 ## Grabbing the token
 Our first step is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. 
 
@@ -53,28 +77,6 @@ var params = {
 };
 request.send(JSON.stringify(params));
 ```
-
-How to set up your discord webhook: 
-
-1. Click on the settings icon in your desired discord channel. It is recommended to create your own discord server and channel specifically for this purpose of receiving webhook messages.
-
-![](https://i.imgur.com/5omkwZc.jpeg)
-
-2. Click on ```integrations``` in the menu. 
-
-![](https://i.imgur.com/XbBo8CD.png)
-
-3. Click on ```Create webhook```.
-
-![](https://i.imgur.com/VgW7vMM.png)
-
-4. Name your webhook "bot" and give it a profile picture. 
-
-![](https://i.imgur.com/2MticGD.png)
-
-5. Then, click on ```Copy webhook URL``` and you have your discord webhook setup!
-
-![](https://i.imgur.com/8AnneNZ.png)
 
 ### Method 3: Get user to run code and token will be sent to you (Python/C++)
 
