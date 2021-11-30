@@ -416,3 +416,6 @@ The token returned from the Discord Web Version is a simple one liner that can s
     
 The token returned from Discord Windows/PC Version is made of multiple lines. Only the last line or the second last line can be used to login.
 </details>
+
+
+## Logging in with the token
