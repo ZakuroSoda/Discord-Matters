@@ -48,7 +48,7 @@ Discord Webhooks allow you to receive messages in a Discord Server Channel exter
 ---
 
 ## Grabbing the token
-Our first goal is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the console of discord web version. 
+Our first goal is to obtain the discord token. This can be done through a C++ program compiled into exe, Python program (may be in exe), or JavaScript injection in the browser console of Discord web version. 
 
 ### Method 1: Get user to send you the token or get it yourself (JavaScript)
 
